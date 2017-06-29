@@ -16,6 +16,7 @@ function pageC (argument) {
     	opacity:1
     },5000);
 
+
     //关窗
     this.closeWindow();
 }
